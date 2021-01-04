@@ -7,7 +7,7 @@
     "connect": "~2.8.4",
     "http-get": "~0.5.10",
     "express": "~3.3.4",
-    "exec": "0.0.6",
+    "exec": "0.2.1",
     "underscore": "~1.5.1",
     "firebase": "~0.6.1",
     "raven": "~0.5.1",
